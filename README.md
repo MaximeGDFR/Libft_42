@@ -72,15 +72,15 @@ The code in this repository follows the rules of the Norminette. 😮‍💨
 * [`ft_putnbr_fd`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_putnbr_fd.c) - Output integer to given file.
 
 ### Linked list functions *(bonus)*
-* [`ft_lstnew`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstnew_bonus.c) - Create new list.
-* [`ft_lstsize`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstsize_bonus.c) - Count elements of a list.
-* [`ft_lstlast`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstlast_bonus.c) - Find last element of list.
-* [`ft_lstadd_back`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstadd_back_bonus.c) - Add new element at end of list.
-* [`ft_lstadd_front`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstadd_front_bonus.c) - Add new element at beginning of list.
-* [`ft_lstdelone`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstdelone_bonus.c) - Delete element from list.
-* [`ft_lstclear`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstclear_bonus.c) - Delete sequence of elements of list from a starting point.
-* [`ft_lstiter`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstiter_bonus.c) - Apply function to content of all list's elements.
-* [`ft_lstmap`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstmap_bonus.c) - Apply function to content of all list's elements into new list.
+* [`ft_lstnew`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstnew.c) - Create new list.
+* [`ft_lstsize`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstsize.c) - Count elements of a list.
+* [`ft_lstlast`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstlast.c) - Find last element of list.
+* [`ft_lstadd_back`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstadd_back.c) - Add new element at end of list.
+* [`ft_lstadd_front`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstadd_front.c) - Add new element at beginning of list.
+* [`ft_lstdelone`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstdelone.c) - Delete element from list.
+* [`ft_lstclear`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstclear.c) - Delete sequence of elements of list from a starting point.
+* [`ft_lstiter`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstiter.c) - Apply function to content of all list's elements.
+* [`ft_lstmap`](https://github.com/MaximeGDFR/Libft_42/blob/main/ft_lstmap.c) - Apply function to content of all list's elements into new list.
 
 ## Requirements
 The library is written in __C language__ and needs the `gcc` compiler, with `<stdlib.h>` and `<unistd.h>` standard libraries to run.
