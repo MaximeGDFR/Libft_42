@@ -1,4 +1,4 @@
-# Libft
+# Libft - 42 School Project
 
 <div id="header" align="center">
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png?raw=true" width="200"/>
